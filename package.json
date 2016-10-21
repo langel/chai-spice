@@ -1,0 +1,26 @@
+{
+  "name": "chai-spice",
+  "version": "1.0.0",
+  "description": "Making false positives from orphaned promises testable.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/langel/chai-spice.git"
+  },
+  "author": {
+    "name": "Langel Bookbinder",
+    "email": "knoxburry@gmail.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/langel/chai-spice/issues"
+  },
+  "homepage": "https://github.com/langel/chai-spice#readme",
+  "dependencies": {
+    "escodegen": "^1.8.1",
+    "esprima": "^3.1.0"
+  }
+}
